@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello javajava
+hello javajava 사진 짱이다
 </body>
 </html>
